@@ -1,18 +1,33 @@
 /* Font style */
+body {
+    font-family: Arial, Helvetica, sans-serif
+    font-size 18px
+}
+
 html {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Arial, Helvetica, sans-serif
 }
 
 h1 {
-    font-family: 'Courier New', Courier, monospace;
+   
+}
+h1 {
+    font-size: 40px
 }
 
-.img--profile {
-    width: 120px;
+h2 {
+    font-size: 25px
+    
 }
 
-.img--logo {
-    width: 420px;
-    margin: 0 40px 0 0;
+h2 { 
+    font-family: Arial, Helvetica, sans-serif
+}
+
+p {
+  
+}
+p {
+    text-align: justify
 }
 
