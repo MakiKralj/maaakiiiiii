@@ -1,7 +1,10 @@
 /* Font style */
 body {
-    font-family: Arial, Helvetica, sans-serif
-    font-size 18px
+    font-family: Arial, Helvetica, sans-serif}
+
+    body {
+
+    font-size: 18px
 }
 
 html {
@@ -19,6 +22,11 @@ h2 {
     font-size: 25px
     
 }
+h2 {
+color: rgb(235, 12, 98);
+}
+
+
 
 h2 { 
     font-family: Arial, Helvetica, sans-serif
@@ -31,3 +39,6 @@ p {
     text-align: justify
 }
 
+p {
+    color: rgba(11, 15, 240, 0.822)
+}
